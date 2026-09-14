@@ -1,0 +1,637 @@
+# Almar-Rack
+
+> Servicios de montaje, inspección, reparación, protección y mantenimiento de estanterías industriales.
+
+Web oficial: https://almarack.com/
+Contacto: info@almarack.com · +34 660 82 34 82
+Base: Guadalajara, España. Servicio en Madrid, Corredor del Henares y trabajos planificados en España.
+
+## Servicios y recursos
+- [Inspección técnica UNE-EN 15635](https://almarack.com/inspecciones-une-en-15635/): Conocer el estado de tu instalación es el primer paso para cuidarla. Revisamos las estanterías, localizamos las incidencias y te entregamos un plan de actuación documentado.
+- [Reparación de estanterías in situ](https://almarack.com/reparacion-estanterias-in-situ/): Un golpe necesita una solución técnica, no una solución improvisada. Evaluamos el daño y la compatibilidad del sistema para reparar o sustituir los elementos afectados en tu instalación.
+- [Protecciones industriales MPM](https://almarack.com/protecciones-estanterias-industriales/): Proteger los puntos expuestos ayuda a reducir las consecuencias de los impactos. Suministramos e instalamos protecciones para estanterías, maquinaria, muelles y recorridos peatonales.
+- [Placas de carga y características](https://almarack.com/placas-de-caracteristicas-estanterias/): La información de carga debe corresponder a la estantería que tienes hoy. Revisamos la configuración y su documentación para que el equipo disponga de instrucciones claras y visibles.
+- [Montaje de estanterías industriales](https://almarack.com/montaje-estanterias-industriales/): Una instalación bien montada empieza antes del primer anclaje. Organizamos el replanteo, la secuencia de trabajo y las comprobaciones de entrega para adaptar el almacén a tu actividad.
+- [Estanterías en cámaras de frío](https://almarack.com/montaje-estanterias-camaras-frio/): Refrigeración y congelación exigen una planificación específica. Montamos, inspeccionamos y mantenemos estanterías en entornos de frío, coordinando las fases con el funcionamiento de la cámara.
+- [Entreplantas y altillos metálicos](https://almarack.com/entreplantas-altillos-metalicos/): Aprovecha la altura disponible con una estructura adaptada al uso previsto. Montamos entreplantas con forjado, accesos y protecciones, con el alcance técnico definido para cada nave.
+- [Traslados y desmontajes](https://almarack.com/traslados-desmontaje-estanterias/): Cambiar de nave también es una oportunidad para ordenar mejor el almacén. Planificamos el desmontaje, la clasificación de materiales y el montaje en destino.
+- [Mantenimiento preventivo y correctivo](https://almarack.com/mantenimiento-estanterias-industriales/): Los pequeños detalles necesitan seguimiento entre inspecciones. Organizamos revisiones, correcciones y documentación para que tu equipo tenga una visión clara de la instalación.
+- [Guía del PRSES](https://almarack.com/guia-prses-seguridad-almacen/): El responsable de seguridad de los equipos de almacenaje conecta el uso diario, las revisiones y las actuaciones correctoras. Esta guía ayuda a organizar ese trabajo.
+- [Normativa de estanterías industriales](https://almarack.com/normativa-estanterias-industriales/): No es lo mismo una ley que una norma técnica. Identificar qué regula cada documento ayuda a organizar el montaje, el uso, las comprobaciones y el mantenimiento.
+- [Checklist de revisión de estanterías](https://almarack.com/checklist-revision-estanterias/): Una lista de apoyo para registrar observaciones durante la revisión interna. No clasifica automáticamente el riesgo ni sustituye la inspección experta.
+- [Proyectos e intervenciones](https://almarack.com/proyectos/): Una selección del material de trabajo de Almar-Rack: protección de estanterías, separación de tráfico, muelles y aprovechamiento del espacio.
+- [Cobertura en toda España](https://almarack.com/cobertura-nacional/): Desde Guadalajara coordinamos trabajos en el Corredor del Henares, Madrid y el resto de España. Organizamos desplazamientos y fases en función de cada instalación.
+- [Estanterías en el Corredor del Henares](https://almarack.com/inspeccion-estanterias-corredor-del-henares/): Inspección, reparación, montaje y mantenimiento desde nuestra base en Guadalajara. Coordinación cercana para plataformas logísticas y almacenes del eje A-2.
+- [Estanterías industriales en Madrid](https://almarack.com/inspeccion-estanterias-madrid/): Servicios de inspección, protección y mantenimiento para almacenes de la Comunidad de Madrid, coordinados desde Guadalajara.
+- [Sobre Almar-Rack](https://almarack.com/sobre-almarack/): Un equipo dedicado al montaje, la inspección y el mantenimiento de estanterías. La relación empieza escuchando cómo funciona tu almacén.
+- [Hablemos de tu almacén](https://almarack.com/contacto/): Cuéntanos qué necesitas y dónde está la instalación. Una fotografía general y otra del detalle ayudan a preparar la primera conversación.
+- [Preguntas frecuentes](https://almarack.com/preguntas-frecuentes/): Respuestas prácticas sobre inspecciones, reparación, montaje, frío y mantenimiento. Para valorar tu instalación necesitamos conocer sus condiciones concretas.
+
+## Alcance
+Información comercial y divulgativa. Una instalación requiere evaluación técnica concreta. Los plazos están sujetos a confirmación. Las escenas de portada son recreadas. No se publican valoraciones, certificaciones ni rankings no acreditados.
+
+- [Contenido completo](https://almarack.com/llms-full.txt)
+
+# Inspección técnica UNE-EN 15635
+URL: https://almarack.com/inspecciones-une-en-15635/
+Conocer el estado de tu instalación es el primer paso para cuidarla. Revisamos las estanterías, localizamos las incidencias y te entregamos un plan de actuación documentado.
+
+## Una revisión que permite actuar
+La inspección combina observación, medición y revisión documental. Coordinamos el recorrido con tu responsable de almacén para reducir interferencias, delimitando las zonas que requieran acceso seguro.
+- Puntales, bastidores y diagonales: deformaciones, impactos y corrosión.
+- Largueros y enganches: estado, pasadores y configuración de niveles.
+- Placas base, anclajes, nivelación y estado visible de la solera.
+- Protecciones, pasillos, palés y señales de carga.
+
+## Qué recibes
+Un informe útil para el responsable de seguridad: no solo una lista de problemas, sino su ubicación y las actuaciones a gestionar.
+- Localización por calle, módulo y nivel, con fotografías.
+- Clasificación de incidencias y prioridades de actuación.
+- Medidas correctoras y alcance de la revisión realizada.
+- Documentación firmada de la inspección y seguimiento de las incidencias.
+
+## Vigilancia diaria, revisión periódica e inspección experta
+La revisión interna del almacén y la inspección experta se complementan. El calendario debe adaptarse al uso y al riesgo de la instalación; el INSST recoge una inspección anual por personal competente en su NTP 852. Consulta nuestra guía normativa para distinguir obligaciones legales y referencias técnicas.
+
+
+## El semáforo de daños, con criterio técnico
+Verde: registrar y vigilar. Ámbar: gestionar la corrección y las restricciones de uso. Rojo: intervención inmediata sobre la zona afectada según el procedimiento de seguridad. No se determina el estado de una estantería con una única cifra: influyen el elemento, el plano de deformación, las roturas y el conjunto de la estructura.
+
+## ¿Hace falta vaciar el almacén?
+La inspección se planifica para reducir la interrupción. El técnico puede requerir despejar o aislar zonas y adoptar medidas sobre la carga si detecta una condición peligrosa.
+
+## ¿Cómo se calcula el presupuesto?
+Según número de huecos-palé, bastidores, niveles, accesibilidad, documentación disponible y condiciones de frío. Envía fotografías y dimensiones para una primera valoración.
+
+## ¿Qué pasa después de detectar un daño?
+Se registra, se comunica al responsable y se define la actuación. El informe no sustituye la corrección del daño ni autoriza por sí solo a mantener en uso una zona insegura.
+
+# Reparación de estanterías in situ
+URL: https://almarack.com/reparacion-estanterias-in-situ/
+Un golpe necesita una solución técnica, no una solución improvisada. Evaluamos el daño y la compatibilidad del sistema para reparar o sustituir los elementos afectados en tu instalación.
+
+## Primero, la seguridad de la zona
+Si existe riesgo grave, evita el acceso y el uso de la zona, avisa al responsable de seguridad y aplica el procedimiento de emergencia de tu centro. La retirada de cargas debe planificarla personal competente: no intentes enderezar, cortar o reparar un puntal por tu cuenta.
+
+
+## Diagnóstico, intervención y comprobación
+Revisamos las fotografías y, cuando procede, realizamos una visita. Identificamos el sistema, el alcance del daño y la solución compatible. La reparación puede requerir sustituir el puntal completo o una parte mediante un sistema técnicamente validado.
+- Identificación del fabricante, perfil y configuración.
+- Planificación de cargas, apoyos auxiliares y zona de trabajo.
+- Sustitución de componentes dañados y revisión de uniones.
+- Comprobación final y registro fotográfico de la actuación.
+
+## No todos los daños admiten el mismo método
+El apuntalamiento y las reparaciones por tramos requieren una solución adecuada al sistema y a las cargas, documentación técnica y las autorizaciones que correspondan. No se debe suponer que cualquier puntal puede cortarse, empalmarse o repararse cargado.
+
+
+## Elementos sobre los que actuamos
+La intervención puede incluir puntales, largueros, diagonales, placas base, anclajes y pasadores. Si se modifica la configuración, también hay que revisar la documentación y la información de cargas.
+
+
+## Plazo y presupuesto por intervención
+La referencia comercial de Almar-Rack contempla reparaciones de alrededor de 45 minutos por puntal en determinados casos y atención urgente en 24/48 h en Madrid y el Henares. Son estimaciones, no garantías: confirmamos disponibilidad, recambio, método, precio y tiempo antes de ejecutar.
+
+## ¿Se puede reparar sin descargar palés?
+Solo cuando la evaluación y el procedimiento aprobado lo permiten. La seguridad y las restricciones derivadas del daño prevalecen sobre cualquier objetivo de continuidad operativa.
+
+## ¿Es más económico que cambiar el bastidor?
+Puede reducir material y trabajos auxiliares cuando la solución es viable. El ahorro real se calcula para cada intervención; no aplicamos un porcentaje universal.
+
+## ¿Trabajáis con varias marcas?
+Sí. Comprobamos la compatibilidad de los recambios y las condiciones del sistema. Que una pieza encaje no demuestra por sí solo que sea estructuralmente compatible.
+
+# Protecciones industriales MPM
+URL: https://almarack.com/protecciones-estanterias-industriales/
+Proteger los puntos expuestos ayuda a reducir las consecuencias de los impactos. Suministramos e instalamos protecciones para estanterías, maquinaria, muelles y recorridos peatonales.
+
+## Una solución para cada punto de contacto
+Seleccionamos las protecciones según el tráfico, el espacio disponible, el vehículo, la velocidad prevista, la solera y las condiciones de uso.
+- Protectores de puntal y cabeceras de alineación.
+- Barreras de pasillo simples o dobles.
+- Bolardos para puertas, esquinas y puestos de trabajo.
+- Defensas de muelle y protección de accesos.
+- Barandillas y puertas de paso peatonal.
+- Protección de columnas y maquinaria.
+
+## Protecciones de polímero
+Las soluciones MPM están presentes en el material de trabajo aportado por Almar-Rack. La elección de referencia debe atender a sus prestaciones declaradas: energía de impacto, fijación, espacio de deformación y rango de temperatura. Ninguna protección elimina por completo el riesgo de daños.
+
+
+## Instalación sobre una base adecuada
+Revisamos el replanteo, las distancias de seguridad y la solera. La fijación se ejecuta según el producto y las condiciones del soporte; no se puede prometer que cualquier impacto resulte inocuo para la protección, el vehículo o el hormigón.
+
+
+## Prevenir también es organizar
+La protección física se combina con circulación ordenada, visibilidad, señalización y comunicación de golpes. Después de un impacto hay que revisar el estado de la defensa y del elemento protegido.
+
+## ¿Pueden instalarse en una nave sin estanterías?
+Sí: para separar tráfico, proteger columnas, accesos, máquinas y zonas de trabajo.
+
+## ¿Sirven para cualquier marca de rack?
+Las barreras independientes no dependen del fabricante del rack. Los protectores acoplados al puntal deben seleccionarse para su geometría concreta.
+
+## ¿Podéis trabajar en cámaras de frío?
+Seleccionamos productos cuya ficha técnica admita la temperatura prevista, y planificamos su montaje con la operativa de la cámara.
+
+# Placas de carga y características
+URL: https://almarack.com/placas-de-caracteristicas-estanterias/
+La información de carga debe corresponder a la estantería que tienes hoy. Revisamos la configuración y su documentación para que el equipo disponga de instrucciones claras y visibles.
+
+## Cuándo revisar una placa
+Cuando falta, no se lee, la estantería se ha trasladado o ha cambiado la altura o el número de niveles. También si la carga utilizada ya no coincide con la prevista o la documentación del sistema es incompleta.
+
+
+## Datos que hay que contrastar
+La capacidad no se obtiene solo mirando una fotografía. Se necesita información suficiente sobre el sistema y una evaluación técnica cuando proceda.
+- Fabricante y características de puntales, largueros y uniones.
+- Altura del primer nivel y distancia entre niveles.
+- Tipo, peso, dimensiones y forma de apoyo de las unidades de carga.
+- Estado del conjunto, bases, anclajes y configuración real.
+- Documentación original y modificaciones realizadas.
+
+## De la documentación a la señalización
+Según el alcance contratado: revisión documental, evaluación de cargas, preparación de la información e instalación de placas visibles. Si hacen falta cálculos, se define su alcance y la información necesaria antes de emitirlos.
+
+
+## No confundir señalización con validación
+Una placa nueva no corrige una estructura dañada ni acredita por sí sola que la instalación sea segura. Sin datos suficientes puede ser necesario obtener información adicional, limitar el uso o sustituir componentes.
+
+## ¿Puedo mover un larguero sin actualizar nada?
+No debes modificar la configuración sin comprobar su efecto sobre la capacidad y las condiciones del sistema. Comunícalo al responsable de seguridad antes del cambio.
+
+## ¿Y si el fabricante ha desaparecido?
+Estudiamos la documentación y las alternativas disponibles. No garantizamos que cualquier sistema desconocido pueda recalcularse solo a partir de sus medidas.
+
+# Montaje de estanterías industriales
+URL: https://almarack.com/montaje-estanterias-industriales/
+Una instalación bien montada empieza antes del primer anclaje. Organizamos el replanteo, la secuencia de trabajo y las comprobaciones de entrega para adaptar el almacén a tu actividad.
+
+## Sistemas de almacenaje
+Montaje de sistemas nuevos o reutilizados, siempre sujeto a documentación, estado y compatibilidad del material.
+- Paletización convencional con acceso directo.
+- Sistemas compactos, drive-in y push-back.
+- Estanterías dinámicas por gravedad.
+- Picking, carga ligera y media.
+- Cantilever para cargas largas.
+
+## Del plano al montaje
+Revisamos medidas, pasillos, columnas, accesos, carga prevista y medios de manutención. Acordamos las zonas de trabajo y coordinamos la actividad con tu centro.
+- Replanteo sobre solera conforme al proyecto.
+- Nivelación, verticalidad y fijación según el sistema.
+- Colocación de pasadores, uniones y protecciones previstas.
+- Comprobaciones finales y documentación del montaje.
+
+## Material de segunda mano
+Antes de reutilizarlo se revisa el estado y se identifica el sistema. Se separan los elementos no aptos y se comprueba que exista información suficiente para la nueva configuración.
+
+
+## Una entrega que facilita el mantenimiento
+Conserva el plano final, las instrucciones, la información de carga y el registro del montaje. Serán la referencia para las inspecciones y futuras modificaciones.
+
+## ¿Cuánto tarda el montaje?
+Depende del sistema, la altura, los módulos, la solera y el acceso. Cerramos el calendario con el alcance y las fases del proyecto.
+
+## ¿Qué necesitáis para presupuestar?
+Plano o medidas de la nave, altura libre, tipo de carga, sistema previsto o inventario del material, ubicación y fechas deseadas.
+
+# Estanterías en cámaras de frío
+URL: https://almarack.com/montaje-estanterias-camaras-frio/
+Refrigeración y congelación exigen una planificación específica. Montamos, inspeccionamos y mantenemos estanterías en entornos de frío, coordinando las fases con el funcionamiento de la cámara.
+
+## El frío cambia la forma de trabajar
+El contenido de referencia describe intervenciones hasta −25 °C. La temperatura concreta, la permanencia, los equipos de protección y la compatibilidad de los materiales se evalúan para cada centro. La escena a −30 °C de la portada es una recreación visual, no una certificación de rango operativo.
+
+
+## Antes de entrar en la cámara
+Planificamos acceso, exposición al frío, pausas, herramientas y coordinación con expedición. Se definen las áreas que pueden seguir operativas y las que necesitan separación.
+- Temperatura y ciclos de apertura.
+- Horario y volumen de movimientos.
+- Estado de bases, hielo, humedad y solera aislada.
+- Compatibilidad de protecciones y fijaciones con el entorno.
+
+## Servicios dentro del entorno frigorífico
+Montaje, inspección técnica, mantenimiento, reparación evaluada caso a caso, protecciones e información de cargas. El trabajo por fases busca reducir el impacto sobre la actividad, sin anteponerlo a la seguridad.
+
+
+## Sectores
+Logística de congelados, distribución alimentaria, industria cárnica, láctea, hortofrutícola, panadería, platos preparados y otros centros con almacenamiento a temperatura controlada.
+
+## ¿Debe detenerse toda la cámara?
+No necesariamente. Se estudia la posibilidad de aislar zonas y trabajar por fases, siempre de acuerdo con seguridad y los requisitos de conservación del producto.
+
+## ¿Qué datos necesitáis?
+Temperatura, dimensiones, huecos-palé, sistema, fotos y horarios de expedición. Indica también cualquier restricción de acceso o higiene.
+
+# Entreplantas y altillos metálicos
+URL: https://almarack.com/entreplantas-altillos-metalicos/
+Aprovecha la altura disponible con una estructura adaptada al uso previsto. Montamos entreplantas con forjado, accesos y protecciones, con el alcance técnico definido para cada nave.
+
+## Más superficie, con un proyecto adecuado
+Almacenaje, picking, archivo, taller u otros usos requieren cargas, accesos y condiciones diferentes. El dimensionamiento debe considerar la estructura, la solera, la circulación y el uso final.
+- Pilares y vigas atornillados.
+- Forjado de tablero, chapa, rejilla u otra solución de proyecto.
+- Escaleras, barandillas y rodapiés.
+- Puertas de carga y elementos de protección.
+
+## La carga admisible se calcula
+No existe una carga universal por metro cuadrado. Depende del uso, las luces, los apoyos y los componentes. La documentación y señalización deben reflejar las condiciones de la solución instalada.
+
+
+## Permisos y seguridad contra incendios
+Que una entreplanta sea desmontable no la exime automáticamente de requisitos urbanísticos, estructurales o de protección contra incendios. Antes de ejecutarla hay que determinar los trámites y comprobaciones aplicables a la ubicación y al uso.
+
+
+## Preparar una propuesta
+Envíanos planta de la nave, superficie deseada, altura libre, uso previsto, pesos, accesos y fotografías. Con esos datos definimos el estudio, los componentes y las fases de montaje.
+
+## ¿Se puede trasladar en el futuro?
+Una estructura desmontable puede facilitarlo, pero la nueva ubicación y configuración requieren una evaluación y la documentación correspondiente.
+
+## ¿De qué depende el precio?
+Superficie, cargas, altura, separación de pilares, forjado, escaleras y protecciones, además del proyecto y las condiciones de montaje.
+
+# Traslados y desmontajes
+URL: https://almarack.com/traslados-desmontaje-estanterias/
+Cambiar de nave también es una oportunidad para ordenar mejor el almacén. Planificamos el desmontaje, la clasificación de materiales y el montaje en destino.
+
+## Un traslado por fases
+Coordinamos el orden de las calles y el movimiento de mercancía con tu equipo. La continuidad del resto de la actividad dependerá de la separación segura de las zonas.
+- Inventario de componentes y documentación existente.
+- Definición del plano de destino y secuencia de trabajo.
+- Desmontaje y clasificación del material.
+- Coordinación de transporte y montaje.
+- Comprobación de configuración, cargas y documentación final.
+
+## Reutilizar con criterio
+Se revisan puntales, largueros, diagonales, uniones y su estado. No se reutiliza un elemento solo porque haya funcionado en la nave anterior: debe ser apto para el nuevo montaje.
+
+
+## Reorganización y ampliaciones
+También estudiamos cambios de niveles, ampliaciones compatibles y desmontajes para retirada. Las modificaciones pueden afectar a la capacidad y requieren revisión técnica.
+
+
+## Qué necesitamos
+Ubicaciones de origen y destino, fechas, planos, sistema de estantería, alturas, niveles, inventario y estado del material. Indica si hay que coordinar el transporte y la gestión de los componentes retirados.
+
+## ¿Puedo conservar las placas antiguas?
+Solo si siguen describiendo correctamente una configuración validada. Tras el traslado hay que revisar la documentación y actualizarla cuando corresponda.
+
+## ¿Valoráis material usado?
+Podemos estudiar el material y su posible reutilización o retirada dentro del alcance del proyecto. Las condiciones se acuerdan caso a caso.
+
+# Mantenimiento preventivo y correctivo
+URL: https://almarack.com/mantenimiento-estanterias-industriales/
+Los pequeños detalles necesitan seguimiento entre inspecciones. Organizamos revisiones, correcciones y documentación para que tu equipo tenga una visión clara de la instalación.
+
+## Un plan adaptado al uso
+El calendario depende del tráfico, los impactos, la rotación, las características del almacén y la evaluación de riesgos. Acordamos las visitas y el alcance de cada actuación.
+- Inspección experta y revisiones intermedias.
+- Seguimiento de daños comunicados por operarios.
+- Reposición de elementos compatibles y correcciones programadas.
+- Revisión de protecciones e información de cargas.
+- Registro de actuaciones y coordinación con el PRSES.
+
+## Lo que no debe pasar desapercibido
+Pasadores ausentes, anclajes dañados, protecciones deterioradas y placas desactualizadas son incidencias que deben gestionarse. Un programa de mantenimiento reduce riesgos, pero no es una garantía de ausencia de accidentes.
+
+
+## Varios centros, un seguimiento coordinado
+Podemos organizar un calendario por ubicación y documentación diferenciada por centro. Así se facilita la consulta del histórico y la priorización de las actuaciones.
+
+
+## Alcance y condiciones claras
+El presupuesto especifica visitas, revisiones, documentación, reposiciones incluidas y reparaciones que se valoran aparte. También se acuerdan la atención de incidencias y las acciones de información al personal.
+
+## ¿Incluye todas las reparaciones?
+Depende del contrato. Se identifican las prestaciones incluidas y se presupuestan por separado las actuaciones que queden fuera.
+
+## ¿Sustituye la vigilancia interna?
+No. Los operarios deben seguir comunicando golpes y el responsable de seguridad debe gestionar las revisiones y medidas del centro.
+
+# Guía del PRSES
+URL: https://almarack.com/guia-prses-seguridad-almacen/
+El responsable de seguridad de los equipos de almacenaje conecta el uso diario, las revisiones y las actuaciones correctoras. Esta guía ayuda a organizar ese trabajo.
+
+## Qué significa PRSES
+Persona Responsable de la Seguridad de los Equipos de Almacenaje. La UNE-EN 15635 contempla esta función en la organización del usuario de la instalación. Su designación debe acompañarse de conocimiento, medios y una definición clara de responsabilidades.
+
+
+## Cuatro áreas de trabajo
+No se trata solo de archivar certificados: se trata de que la información llegue a quien utiliza y mantiene el almacén.
+- Conocer la configuración y las cargas autorizadas.
+- Organizar la comunicación de golpes y las revisiones.
+- Gestionar medidas de seguridad y reparaciones con personal competente.
+- Mantener accesible el registro de actuaciones y modificaciones.
+
+## El libro de registro
+Organiza la información por centro, calle y módulo. Cada incidencia debe poder seguirse desde su detección hasta su cierre.
+- Documentación del montaje, planos y placas.
+- Revisiones con fecha, responsable y observaciones.
+- Daños, fotografías, comunicación y medidas adoptadas.
+- Informes de inspección experta.
+- Reparaciones y comprobación posterior.
+- Cambios de configuración y documentación actualizada.
+
+## Una rutina que se pueda cumplir
+Acuerda con operaciones cómo se notifican los golpes y quién recibe el aviso. Define las revisiones según el riesgo y coordina la inspección experta. Una lista de comprobación ayuda, pero no sustituye la formación ni el criterio técnico.
+
+
+## Si heredas un almacén sin documentación
+Empieza por inventariar lo disponible y localizar los datos que faltan. Evita deducir cargas a partir de otra instalación parecida. Una revisión técnica permite definir qué información hay que recuperar y qué medidas provisionales hacen falta.
+
+## ¿Tiene que ser el jefe de almacén?
+La empresa debe asignar la función a una persona con capacidad y medios adecuados. Puede recaer en un responsable de almacén, mantenimiento u otro perfil según la organización.
+
+## ¿Esta guía sustituye asesoramiento técnico o legal?
+No. Es información general. Las obligaciones y medidas concretas requieren analizar el centro, la normativa aplicable y la evaluación de riesgos.
+
+# Normativa de estanterías industriales
+URL: https://almarack.com/normativa-estanterias-industriales/
+No es lo mismo una ley que una norma técnica. Identificar qué regula cada documento ayuda a organizar el montaje, el uso, las comprobaciones y el mantenimiento.
+
+## Marco preventivo
+La Ley 31/1995 establece el marco de prevención de riesgos laborales. El RD 1215/1997 regula condiciones de los equipos de trabajo, incluyendo mantenimiento y comprobaciones por personal competente; el RD 486/1997 aborda los lugares de trabajo. La aplicación concreta debe revisarse para cada centro.
+
+
+## Referencias técnicas por fase
+Consulta la edición vigente y su ámbito de aplicación antes de utilizarla en un proyecto.
+- UNE-EN 15629: especificación de equipos de almacenaje.
+- UNE-EN 15512: diseño estructural de estanterías regulables para carga paletizada.
+- UNE-EN 15620: tolerancias, deformaciones y holguras.
+- UNE-EN 15635: uso y mantenimiento de equipos de almacenaje.
+- UNE-EN 15878: términos y definiciones.
+
+## Guías del INSST
+La NTP 852 ofrece orientaciones sobre riesgos, mantenimiento e inspecciones. Las NTP son guías de buenas prácticas, no disposiciones legales por sí mismas. El INSST dispone también de una herramienta de revisión de las condiciones de seguridad de estanterías metálicas.
+
+
+## Qué documentación conviene organizar
+Planos y configuración, instrucciones de uso y mantenimiento, información de cargas, comprobaciones de montaje, evaluaciones, revisiones, incidencias y correcciones. La documentación debe describir el estado y las actuaciones reales, no limitarse a un sello.
+
+
+## Responsabilidad y sanciones
+Los incumplimientos pueden tener consecuencias administrativas y, según los hechos, otras responsabilidades. No existe una multa automática por una placa ausente ni un certificado que garantice inmunidad frente a sanciones. Para un caso concreto, consulta a tu servicio de prevención y asesoría jurídica.
+
+## ¿Una norma UNE es una ley?
+No por el mero hecho de ser UNE. Su exigibilidad puede derivar de referencias normativas, condiciones contractuales u otros supuestos. Es importante distinguir la obligación preventiva del documento técnico empleado para concretarla.
+
+## ¿Qué periodicidad se debe seguir?
+El plan debe considerar las condiciones de uso, el riesgo y las instrucciones. La NTP 852 contempla vigilancia diaria, revisiones periódicas e inspección anual por personal competente.
+
+# Checklist de revisión de estanterías
+URL: https://almarack.com/checklist-revision-estanterias/
+Una lista de apoyo para registrar observaciones durante la revisión interna. No clasifica automáticamente el riesgo ni sustituye la inspección experta.
+
+## Datos de la revisión
+Anota fecha, centro, calle y módulo, persona que revisa, incidencias, fotografías, responsable de actuación y fecha de seguimiento.
+
+
+## Puntales y bastidores
+Observa sin intervenir sobre la estructura.
+- Impactos, deformaciones, cortes, corrosión o roturas visibles.
+- Estado de diagonales, arriostramientos y uniones.
+- Apoyo de las bases y estado visible de los anclajes.
+- Cambios de verticalidad o daños en la solera.
+
+## Largueros y carga
+Comprueba el uso respecto a la configuración documentada.
+- Enganches y pasadores de seguridad presentes.
+- Deformación o daños visibles en largueros.
+- Palés en buen estado y correctamente apoyados.
+- Cargas y alturas coherentes con la información autorizada.
+
+## Protecciones, información y circulación
+El entorno también forma parte de la revisión.
+- Protecciones y barreras sin daños aparentes.
+- Pasillos y accesos despejados.
+- Placas legibles y acordes con la configuración.
+- Señalización visible y comunicación de golpes registrada.
+
+## Qué hacer si detectas una anomalía
+Comunícala al responsable, registra la ubicación y evita las actuaciones improvisadas. Si hay indicios de peligro grave, impide el uso de la zona conforme al procedimiento del centro y solicita evaluación competente. No esperes a la próxima revisión para comunicarlo.
+
+## ¿Puedo imprimir esta lista?
+Sí. La página incluye un botón de impresión con un formato limpio para imprimir o guardar en PDF desde tu navegador.
+
+## ¿Cómo fijo la frecuencia?
+Debe establecerla la organización según el riesgo y la utilización del almacén. La comunicación de un golpe no debe aplazarse hasta la revisión programada.
+
+# Proyectos e intervenciones
+URL: https://almarack.com/proyectos/
+Una selección del material de trabajo de Almar-Rack: protección de estanterías, separación de tráfico, muelles y aprovechamiento del espacio.
+
+## Protecciones de estanterías · Alicante
+Protectores de puntal y cabeceras en una instalación logística. La fotografía permite apreciar la continuidad de las protecciones a lo largo de las alineaciones.
+
+
+## Protección de procesos · Planta de envases
+Barreras y separación física junto a maquinaria y recorridos de trabajo. La solución se adapta a los accesos, la circulación y los equipos de la planta.
+
+
+## Muelles y accesos · Quer, Guadalajara
+Bolardos y barreras de protección en puntos de paso y puertas de muelle.
+
+
+## Entreplanta metálica · Entorno industrial
+Montaje de estructura y elementos de protección para aprovechar la altura de la nave.
+
+
+## Imágenes de trabajo y escenas recreadas
+Las fotografías de esta sección proceden del material aportado por Almar-Rack; algunas tienen ajustes visuales de presentación. La secuencia de congelación de la portada es una recreación y no documenta un procedimiento real de reparación. No publicamos nombres de clientes como testimonio sin autorización.
+
+
+
+# Cobertura en toda España
+URL: https://almarack.com/cobertura-nacional/
+Desde Guadalajara coordinamos trabajos en el Corredor del Henares, Madrid y el resto de España. Organizamos desplazamientos y fases en función de cada instalación.
+
+## Cerca en el eje A-2
+Guadalajara, Marchamalo, Cabanillas del Campo, Azuqueca, Quer, Alovera, Alcalá de Henares, Torrejón, Coslada y San Fernando de Henares forman parte de nuestro entorno operativo.
+
+
+## Intervenciones planificadas
+La información comercial facilitada contempla servicio en las 17 comunidades autónomas. Confirmamos disponibilidad, logística y condiciones para cada ubicación, incluidas Baleares y Canarias.
+- Centro: Madrid, Castilla-La Mancha y Castilla y León.
+- Noreste: Aragón y Cataluña.
+- Levante: Comunidad Valenciana y Región de Murcia.
+- Norte: País Vasco, Navarra, La Rioja, Cantabria y Asturias.
+- Noroeste: Galicia.
+- Sur y oeste: Andalucía y Extremadura.
+- Islas: Baleares y Canarias, con planificación específica.
+
+## Un presupuesto que contemple el desplazamiento
+Indica ubicación, volumen, fotografías y fechas. La propuesta debe detallar desplazamientos, alojamiento cuando proceda, recambios, alcance y calendario. Las condiciones locales sin recargo se confirman en la oferta.
+
+
+## Varios centros, un interlocutor
+Agrupamos visitas cuando resulta viable y organizamos la documentación por instalación. Consulta la posibilidad de un plan de mantenimiento para varias naves.
+
+## ¿Atendéis urgencias fuera de Madrid?
+Valoramos cada solicitud y confirmamos el plazo posible. Un riesgo grave requiere medidas inmediatas en el centro, sin esperar a la llegada de un proveedor.
+
+## ¿Hay trabajos fuera de Guadalajara?
+El material aportado incluye proyectos de protecciones en Alicante, además de actuaciones en el entorno del Henares. Puedes ver ejemplos en Proyectos.
+
+# Estanterías en el Corredor del Henares
+URL: https://almarack.com/inspeccion-estanterias-corredor-del-henares/
+Inspección, reparación, montaje y mantenimiento desde nuestra base en Guadalajara. Coordinación cercana para plataformas logísticas y almacenes del eje A-2.
+
+## Guadalajara y su entorno logístico
+Atendemos solicitudes de Guadalajara, Marchamalo, Cabanillas del Campo, Azuqueca de Henares, Quer, Alovera, Chiloeches, Fontanar, Yunquera y otras localidades del corredor.
+
+
+## El eje A-2 hacia Madrid
+Alcalá de Henares, Meco, Torrejón de Ardoz, Coslada y San Fernando de Henares. Entre las áreas mencionadas en la referencia están Ciudad del Transporte, Miralcampo, La Garena y el Centro de Transportes de Coslada.
+
+
+## Servicios para la actividad de la zona
+Inspección técnica, reparación evaluada de puntales, protecciones MPM, placas de carga, montaje, frío, traslados y mantenimiento. Trabajamos con plataformas logísticas, distribución, alimentación y centros industriales.
+
+
+## Atención urgente y visitas
+La referencia comercial indica atención en 24/48 h en el corredor. Confirmamos disponibilidad y alcance al recibir la solicitud. Si existe peligro grave, aplica primero el procedimiento de seguridad de tu centro.
+
+
+
+# Estanterías industriales en Madrid
+URL: https://almarack.com/inspeccion-estanterias-madrid/
+Servicios de inspección, protección y mantenimiento para almacenes de la Comunidad de Madrid, coordinados desde Guadalajara.
+
+## Capital y cinturón industrial
+Madrid, Getafe, Leganés, Fuenlabrada, Móstoles, Pinto, Valdemoro y Ciempozuelos. Evaluamos tanto grandes plataformas como instalaciones pequeñas.
+
+
+## Corredores logísticos
+A-1: Alcobendas y San Sebastián de los Reyes. A-2: Coslada, San Fernando, Torrejón, Alcalá y Meco. A-3: Rivas y Arganda. También estudiamos trabajos en Illescas y Ontígola, en Toledo, vinculados al corredor logístico sur.
+
+
+## De una incidencia a un plan de mantenimiento
+Puedes solicitar una reparación concreta, revisión de placas, instalación de protecciones o un calendario de seguimiento. Indica número de huecos, alturas, sistema, ubicación y fotografías.
+
+
+## Condiciones de intervención
+Acordamos presupuesto, desplazamiento y turno antes de actuar. La atención urgente en 24/48 h descrita en la información comercial está sujeta a confirmación; no debe interpretarse como un tiempo garantizado de llegada.
+
+
+
+# Sobre Almar-Rack
+URL: https://almarack.com/sobre-almarack/
+Un equipo dedicado al montaje, la inspección y el mantenimiento de estanterías. La relación empieza escuchando cómo funciona tu almacén.
+
+## Criterio técnico y trato directo
+Diego Fernando Núñez Narváez es el responsable técnico identificado en el material de Almar-Rack. La empresa tiene su base en Guadalajara y una oferta que abarca el ciclo de vida de las instalaciones de almacenaje.
+
+
+## Una visión multimarca
+Evaluamos el sistema existente y la solución que necesita. La selección de componentes y recambios debe basarse en compatibilidad y documentación, no únicamente en apariencia.
+
+
+## Cómo entendemos el trabajo
+Conocer la instalación, acordar el alcance, planificar las zonas y documentar el resultado. La continuidad operativa importa, pero las medidas de seguridad tienen prioridad.
+
+
+## Sectores
+Operadores logísticos, distribución y comercio electrónico, industria alimentaria, cámaras frigoríficas, envases y fabricación, farmacia, suministros industriales y almacenes de pymes.
+
+
+## Una empresa, distintas necesidades
+Desde un puntal golpeado hasta un traslado de nave. Puedes contar con un interlocutor para organizar montaje, revisiones, protecciones y mantenimiento, con condiciones definidas en cada proyecto.
+
+
+
+# Hablemos de tu almacén
+URL: https://almarack.com/contacto/
+Cuéntanos qué necesitas y dónde está la instalación. Una fotografía general y otra del detalle ayudan a preparar la primera conversación.
+
+## Contacto directo
+Responsable técnico: Diego Fernando Núñez Narváez. Teléfono y WhatsApp: +34 660 82 34 82. Teléfono fijo: +34 949 00 70 51. Correo: info@almarack.com. Horario indicado en la información facilitada: lunes a domingo, 8:00–20:00.
+
+
+## Base en Guadalajara
+C/ Alvarfáñez de Minaya 1B, 19001 Guadalajara, España. Confirma la visita previamente. Coordinamos intervenciones en Madrid, el Henares y el resto de España.
+
+
+## Datos que agilizan la valoración
+No envíes datos personales innecesarios ni imágenes de personas si no hacen falta.
+- Servicio solicitado y ubicación de la nave.
+- Número de huecos-palé o módulos, altura y niveles.
+- Marca o documentación disponible del sistema.
+- Tipo de carga y temperatura del almacén.
+- Fotos generales y de la incidencia, tomadas desde una zona segura.
+- Fechas y restricciones operativas.
+
+## Si se trata de una urgencia
+Comunica primero el riesgo al responsable de seguridad y aplica las medidas del centro. No accedas a una zona peligrosa para tomar fotografías. La consulta remota no sustituye la evaluación presencial cuando sea necesaria.
+
+
+
+# Preguntas frecuentes
+URL: https://almarack.com/preguntas-frecuentes/
+Respuestas prácticas sobre inspecciones, reparación, montaje, frío y mantenimiento. Para valorar tu instalación necesitamos conocer sus condiciones concretas.
+
+## Antes de contratar
+Encontrarás más detalle en la página de cada servicio. Si tu duda se refiere a una incidencia actual, contacta con el equipo e informa al responsable de seguridad del centro.
+
+## ¿Hace falta vaciar el almacén?
+La inspección se planifica para reducir la interrupción. El técnico puede requerir despejar o aislar zonas y adoptar medidas sobre la carga si detecta una condición peligrosa.
+
+## ¿Cómo se calcula el presupuesto?
+Según número de huecos-palé, bastidores, niveles, accesibilidad, documentación disponible y condiciones de frío. Envía fotografías y dimensiones para una primera valoración.
+
+## ¿Qué pasa después de detectar un daño?
+Se registra, se comunica al responsable y se define la actuación. El informe no sustituye la corrección del daño ni autoriza por sí solo a mantener en uso una zona insegura.
+
+## ¿Se puede reparar sin descargar palés?
+Solo cuando la evaluación y el procedimiento aprobado lo permiten. La seguridad y las restricciones derivadas del daño prevalecen sobre cualquier objetivo de continuidad operativa.
+
+## ¿Es más económico que cambiar el bastidor?
+Puede reducir material y trabajos auxiliares cuando la solución es viable. El ahorro real se calcula para cada intervención; no aplicamos un porcentaje universal.
+
+## ¿Trabajáis con varias marcas?
+Sí. Comprobamos la compatibilidad de los recambios y las condiciones del sistema. Que una pieza encaje no demuestra por sí solo que sea estructuralmente compatible.
+
+## ¿Pueden instalarse en una nave sin estanterías?
+Sí: para separar tráfico, proteger columnas, accesos, máquinas y zonas de trabajo.
+
+## ¿Sirven para cualquier marca de rack?
+Las barreras independientes no dependen del fabricante del rack. Los protectores acoplados al puntal deben seleccionarse para su geometría concreta.
+
+## ¿Podéis trabajar en cámaras de frío?
+Seleccionamos productos cuya ficha técnica admita la temperatura prevista, y planificamos su montaje con la operativa de la cámara.
+
+## ¿Puedo mover un larguero sin actualizar nada?
+No debes modificar la configuración sin comprobar su efecto sobre la capacidad y las condiciones del sistema. Comunícalo al responsable de seguridad antes del cambio.
+
+## ¿Y si el fabricante ha desaparecido?
+Estudiamos la documentación y las alternativas disponibles. No garantizamos que cualquier sistema desconocido pueda recalcularse solo a partir de sus medidas.
+
+## ¿Cuánto tarda el montaje?
+Depende del sistema, la altura, los módulos, la solera y el acceso. Cerramos el calendario con el alcance y las fases del proyecto.
+
+## ¿Qué necesitáis para presupuestar?
+Plano o medidas de la nave, altura libre, tipo de carga, sistema previsto o inventario del material, ubicación y fechas deseadas.
+
+## ¿Debe detenerse toda la cámara?
+No necesariamente. Se estudia la posibilidad de aislar zonas y trabajar por fases, siempre de acuerdo con seguridad y los requisitos de conservación del producto.
+
+## ¿Qué datos necesitáis?
+Temperatura, dimensiones, huecos-palé, sistema, fotos y horarios de expedición. Indica también cualquier restricción de acceso o higiene.
+
+## ¿Se puede trasladar en el futuro?
+Una estructura desmontable puede facilitarlo, pero la nueva ubicación y configuración requieren una evaluación y la documentación correspondiente.
+
+## ¿De qué depende el precio?
+Superficie, cargas, altura, separación de pilares, forjado, escaleras y protecciones, además del proyecto y las condiciones de montaje.
+
+## ¿Puedo conservar las placas antiguas?
+Solo si siguen describiendo correctamente una configuración validada. Tras el traslado hay que revisar la documentación y actualizarla cuando corresponda.
+
+## ¿Valoráis material usado?
+Podemos estudiar el material y su posible reutilización o retirada dentro del alcance del proyecto. Las condiciones se acuerdan caso a caso.
+
+## ¿Incluye todas las reparaciones?
+Depende del contrato. Se identifican las prestaciones incluidas y se presupuestan por separado las actuaciones que queden fuera.
+
+## ¿Sustituye la vigilancia interna?
+No. Los operarios deben seguir comunicando golpes y el responsable de seguridad debe gestionar las revisiones y medidas del centro.

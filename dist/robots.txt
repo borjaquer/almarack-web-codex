@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Vista de revisión. Activar indexación solo al publicar el dominio definitivo.

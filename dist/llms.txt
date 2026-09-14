@@ -1,0 +1,33 @@
+# Almar-Rack
+
+> Servicios de montaje, inspección, reparación, protección y mantenimiento de estanterías industriales.
+
+Web oficial: https://almarack.com/
+Contacto: info@almarack.com · +34 660 82 34 82
+Base: Guadalajara, España. Servicio en Madrid, Corredor del Henares y trabajos planificados en España.
+
+## Servicios y recursos
+- [Inspección técnica UNE-EN 15635](https://almarack.com/inspecciones-une-en-15635/): Conocer el estado de tu instalación es el primer paso para cuidarla. Revisamos las estanterías, localizamos las incidencias y te entregamos un plan de actuación documentado.
+- [Reparación de estanterías in situ](https://almarack.com/reparacion-estanterias-in-situ/): Un golpe necesita una solución técnica, no una solución improvisada. Evaluamos el daño y la compatibilidad del sistema para reparar o sustituir los elementos afectados en tu instalación.
+- [Protecciones industriales MPM](https://almarack.com/protecciones-estanterias-industriales/): Proteger los puntos expuestos ayuda a reducir las consecuencias de los impactos. Suministramos e instalamos protecciones para estanterías, maquinaria, muelles y recorridos peatonales.
+- [Placas de carga y características](https://almarack.com/placas-de-caracteristicas-estanterias/): La información de carga debe corresponder a la estantería que tienes hoy. Revisamos la configuración y su documentación para que el equipo disponga de instrucciones claras y visibles.
+- [Montaje de estanterías industriales](https://almarack.com/montaje-estanterias-industriales/): Una instalación bien montada empieza antes del primer anclaje. Organizamos el replanteo, la secuencia de trabajo y las comprobaciones de entrega para adaptar el almacén a tu actividad.
+- [Estanterías en cámaras de frío](https://almarack.com/montaje-estanterias-camaras-frio/): Refrigeración y congelación exigen una planificación específica. Montamos, inspeccionamos y mantenemos estanterías en entornos de frío, coordinando las fases con el funcionamiento de la cámara.
+- [Entreplantas y altillos metálicos](https://almarack.com/entreplantas-altillos-metalicos/): Aprovecha la altura disponible con una estructura adaptada al uso previsto. Montamos entreplantas con forjado, accesos y protecciones, con el alcance técnico definido para cada nave.
+- [Traslados y desmontajes](https://almarack.com/traslados-desmontaje-estanterias/): Cambiar de nave también es una oportunidad para ordenar mejor el almacén. Planificamos el desmontaje, la clasificación de materiales y el montaje en destino.
+- [Mantenimiento preventivo y correctivo](https://almarack.com/mantenimiento-estanterias-industriales/): Los pequeños detalles necesitan seguimiento entre inspecciones. Organizamos revisiones, correcciones y documentación para que tu equipo tenga una visión clara de la instalación.
+- [Guía del PRSES](https://almarack.com/guia-prses-seguridad-almacen/): El responsable de seguridad de los equipos de almacenaje conecta el uso diario, las revisiones y las actuaciones correctoras. Esta guía ayuda a organizar ese trabajo.
+- [Normativa de estanterías industriales](https://almarack.com/normativa-estanterias-industriales/): No es lo mismo una ley que una norma técnica. Identificar qué regula cada documento ayuda a organizar el montaje, el uso, las comprobaciones y el mantenimiento.
+- [Checklist de revisión de estanterías](https://almarack.com/checklist-revision-estanterias/): Una lista de apoyo para registrar observaciones durante la revisión interna. No clasifica automáticamente el riesgo ni sustituye la inspección experta.
+- [Proyectos e intervenciones](https://almarack.com/proyectos/): Una selección del material de trabajo de Almar-Rack: protección de estanterías, separación de tráfico, muelles y aprovechamiento del espacio.
+- [Cobertura en toda España](https://almarack.com/cobertura-nacional/): Desde Guadalajara coordinamos trabajos en el Corredor del Henares, Madrid y el resto de España. Organizamos desplazamientos y fases en función de cada instalación.
+- [Estanterías en el Corredor del Henares](https://almarack.com/inspeccion-estanterias-corredor-del-henares/): Inspección, reparación, montaje y mantenimiento desde nuestra base en Guadalajara. Coordinación cercana para plataformas logísticas y almacenes del eje A-2.
+- [Estanterías industriales en Madrid](https://almarack.com/inspeccion-estanterias-madrid/): Servicios de inspección, protección y mantenimiento para almacenes de la Comunidad de Madrid, coordinados desde Guadalajara.
+- [Sobre Almar-Rack](https://almarack.com/sobre-almarack/): Un equipo dedicado al montaje, la inspección y el mantenimiento de estanterías. La relación empieza escuchando cómo funciona tu almacén.
+- [Hablemos de tu almacén](https://almarack.com/contacto/): Cuéntanos qué necesitas y dónde está la instalación. Una fotografía general y otra del detalle ayudan a preparar la primera conversación.
+- [Preguntas frecuentes](https://almarack.com/preguntas-frecuentes/): Respuestas prácticas sobre inspecciones, reparación, montaje, frío y mantenimiento. Para valorar tu instalación necesitamos conocer sus condiciones concretas.
+
+## Alcance
+Información comercial y divulgativa. Una instalación requiere evaluación técnica concreta. Los plazos están sujetos a confirmación. Las escenas de portada son recreadas. No se publican valoraciones, certificaciones ni rankings no acreditados.
+
+- [Contenido completo](https://almarack.com/llms-full.txt)
