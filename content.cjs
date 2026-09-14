@@ -138,4 +138,8 @@ s('Cambios futuros','Si se añaden analítica, publicidad, vídeos incrustados u
 ]);
 const faq=pages.filter(p=>p.group==='Servicios').flatMap(p=>p.faq.map(([q,a])=>[q,a,p.slug]));
 add('preguntas-frecuentes','Preguntas frecuentes','Recursos','Respuestas prácticas sobre inspecciones, reparación, montaje, frío y mantenimiento. Para valorar tu instalación necesitamos conocer sus condiciones concretas.','',[s('Antes de contratar','Encontrarás más detalle en la página de cada servicio. Si tu duda se refiere a una incidencia actual, contacta con el equipo e informa al responsable de seguridad del centro.')],faq);
+// El titular ha pedido dejar el aviso legal sin rellenar por ahora.
+const legal=pages.find(p=>p.slug==='aviso-legal');
+legal.intro='Aviso legal pendiente de incorporar.';
+legal.sections=[s('Pendiente','Esta información se incorporará antes de la publicación comercial de la web.')];
 module.exports={pages};
