@@ -4,7 +4,7 @@
  const chapters=[...document.querySelectorAll('.chapter')], buttons=[...document.querySelectorAll('[data-step]')], progressBar=document.getElementById('progress-bar');
  const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
  const labels=[['EL DETALLE QUE IMPORTA','PUNTAL / DAÑO POR IMPACTO'],['UNA MIRADA EXPERTA','INSPECCIÓN / EVALUACIÓN DEL DAÑO'],['DESPUÉS DE LA INTERVENCIÓN','KIT DE EMPALME / INSTALACIÓN TERMINADA'],['EL TRABAJO BIEN HECHO','COMPROBACIÓN / INTERVENCIÓN DOCUMENTADA']];
- const images=['01-dano.webp','02-inspeccion.webp','03-intervencion.webp','04-ok.webp'].map(name=>{const im=new Image();im.src='assets/'+name;im.onload=()=>{dirty=true;requestAnimationFrame(tick)};return im});
+ const images=['01-dano.webp','02-inspeccion.webp','03-intervencion-altura.webp','04-ok-altura.webp'].map(name=>{const im=new Image();im.src='assets/'+name;im.onload=()=>{dirty=true;requestAnimationFrame(tick)};return im});
  let target=0,current=0,active=-1,width=0,height=0,dirty=true,scheduled=false;
  function resize(){const rect=stage.getBoundingClientRect();width=rect.width;height=rect.height;const dpr=Math.min(devicePixelRatio||1,2);canvas.width=Math.round(width*dpr);canvas.height=Math.round(height*dpr);ctx.setTransform(dpr,0,0,dpr,0,0);dirty=true;update()}
  function update(){const rect=story.getBoundingClientRect();target=Math.max(0,Math.min(1,-rect.top/Math.max(1,story.offsetHeight-stage.offsetHeight)));if(!scheduled){scheduled=true;requestAnimationFrame(tick)}}
