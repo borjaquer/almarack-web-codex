@@ -3,7 +3,7 @@
  const canvas=document.getElementById('scene'), ctx=canvas.getContext('2d'), story=document.querySelector('.story'), stage=document.querySelector('.stage');
  const chapters=[...document.querySelectorAll('.chapter')], buttons=[...document.querySelectorAll('[data-step]')], progressBar=document.getElementById('progress-bar');
  const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
- const labels=[['EL DETALLE QUE IMPORTA','PUNTAL / DAÑO POR IMPACTO'],['UNA MIRADA EXPERTA','INSPECCIÓN / EVALUACIÓN DEL DAÑO'],['CADA MILÍMETRO CUENTA','INTERVENCIÓN / PRECISIÓN TÉCNICA'],['EL TRABAJO BIEN HECHO','COMPROBACIÓN / INTERVENCIÓN FINALIZADA']];
+ const labels=[['EL DETALLE QUE IMPORTA','PUNTAL / DAÑO POR IMPACTO'],['UNA MIRADA EXPERTA','INSPECCIÓN / EVALUACIÓN DEL DAÑO'],['DESPUÉS DE LA INTERVENCIÓN','KIT DE EMPALME / INSTALACIÓN TERMINADA'],['EL TRABAJO BIEN HECHO','COMPROBACIÓN / INTERVENCIÓN DOCUMENTADA']];
  const images=['01-dano.webp','02-inspeccion.webp','03-intervencion.webp','04-ok.webp'].map(name=>{const im=new Image();im.src='assets/'+name;im.onload=()=>{dirty=true;requestAnimationFrame(tick)};return im});
  let target=0,current=0,active=-1,width=0,height=0,dirty=true,scheduled=false;
  function resize(){const rect=stage.getBoundingClientRect();width=rect.width;height=rect.height;const dpr=Math.min(devicePixelRatio||1,2);canvas.width=Math.round(width*dpr);canvas.height=Math.round(height*dpr);ctx.setTransform(dpr,0,0,dpr,0,0);dirty=true;update()}
